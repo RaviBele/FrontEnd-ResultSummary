@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/RaviBele/FrontEnd-ResultSummary)
-- Live Site URL: [Add live site URL here](https://zesty-moxie-4c82e9.netlify.app/)
+- Solution URL: [GitHub URL](https://github.com/RaviBele/FrontEnd-ResultSummary)
+- Live Site URL: [Netlify URL](https://zesty-moxie-4c82e9.netlify.app/)
 
 ## My process
 
