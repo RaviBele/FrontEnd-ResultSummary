@@ -90,7 +90,7 @@ More accurate dimensions according to image dimensions.
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RaviBele)
+- Frontend Mentor - [@RaviBele](https://www.frontendmentor.io/profile/RaviBele)
 
 
 ## Acknowledgments
